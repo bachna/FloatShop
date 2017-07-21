@@ -32,6 +32,7 @@ Simple online shop.
 **To be fixed**
     <br>[-] showing diffrent menus depending on login status
     <br>[-] showing appropriate inputs in log in form
+    <br>[-] change selection buttons in products
 
 Homepage | Products
 ------------ | -------------
